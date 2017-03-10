@@ -1,0 +1,15 @@
+fields:
+    url:
+        label: Url
+        oc.commentPosition: ''
+        span: full
+        type: text
+    embedUrl:
+        label: 'Video'
+        oc.commentPosition: ''
+        span: auto
+        disabled: 1
+        dependsOn:
+            - url
+        type: partial
+        path: video

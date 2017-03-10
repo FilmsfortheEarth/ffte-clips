@@ -1,0 +1,10 @@
+columns:
+    embedUrl:
+        label: Video
+        type: partial
+        path: video
+    url:
+        label: Url
+        type: text
+        searchable: true
+        sortable: true

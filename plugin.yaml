@@ -1,0 +1,11 @@
+plugin:
+    name: 'ffte.clips::lang.plugin.name'
+    description: 'ffte.clips::lang.plugin.description'
+    author: Ffte
+    icon: oc-icon-video-camera
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: 'ffte.clips::lang.plugin.name'
+        url: ffte/clips/clips
+        icon: icon-video-camera

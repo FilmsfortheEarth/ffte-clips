@@ -1,0 +1,5 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table ffte_clips_'
+    - builder_table_create_ffte_clips_clips.php
